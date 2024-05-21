@@ -1,7 +1,4 @@
-# Data Analyst Portfolio Project Repository
-
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
-
-Please feel free to take these and run with them. Make them your own and find you own insights
-
-I really do hope this is helpful and helps you land that dream job! :D
+# Portfolio
+Portfolio_analyst
+I will include some of the projects I've worked on here to showcase my skills and abilities as a portfolio for potential recruiters. This is by no means an exhaustive list of the skills I've acquired, and is intended for a quick review. Please request my CV for a full list of my skills. I will also make another repo for Bioinformatics.
+>>>>>>> origin/main
